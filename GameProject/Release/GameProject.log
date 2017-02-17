@@ -1,0 +1,24 @@
+﻿  ArrayTexture.cpp
+  BufferDataLoader.cpp
+  Display.cpp
+  GLCamera.cpp
+  ImageLoader.cpp
+  main.cpp
+c:\users\bobby smith\desktop\c++_projects\gameproject\gameproject\Camera.h(122): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  OpenGLMemoryTracker.cpp
+  Shader.cpp
+  StaticInput.cpp
+  Texture.cpp
+  Texture2D.cpp
+  Texture2DArray.cpp
+Texture2DArray.cpp(146): warning C4018: '<': signed/unsigned mismatch
+Texture2DArray.cpp(181): warning C4018: '<': signed/unsigned mismatch
+Texture2DArray.cpp(193): warning C4018: '<': signed/unsigned mismatch
+Texture2DArray.cpp(209): warning C4018: '<': signed/unsigned mismatch
+  TextureLoader.cpp
+  Timer.cpp
+  Generating code
+  All 735 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameProject.vcxproj -> C:\Users\Bobby Smith\Desktop\C++_Projects\GameProject\Release\GameProject.exe
+  GameProject.vcxproj -> C:\Users\Bobby Smith\Desktop\C++_Projects\GameProject\Release\GameProject.pdb (Full PDB)
